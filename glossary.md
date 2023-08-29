@@ -30,7 +30,15 @@ More to read: https://www.coursera.org/articles/front-end-developer, https://boo
 
 
 ## Content Management System
+A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish on your coding program. CMS is very helpful for people struggling with coding, and simplifies the way that they code, which makes coding both faster and simpler. A CMS works by providing a user interface with tools displayed that make the coding process much easier and faster, without th eneed to write the code from scratch. CMSes are typically used for enterprise content management (ECM) and web content management (WCM).
 
+Some of the features of CMS include:
+- Intuitive indexing, search and retrieval: These features index all data for easy access through search functions and enable users to search by attributes such as publication dates, keywords or author.
+- Format management: This helps turn scanned paper documents and legacy electronic documents into HTML or PDF documents.
+- Revision features: These features enable content to be updated and edited after initial publication. Revision control also tracks any changes individuals make to files.
+- Publishing: This functionality enables individuals to use a template or a set of templates that an organization approves -- as well as wizards and other tools for content creation and modification.
+
+Overall, the benefits of using a Content Management System include the ease of use and management of content, accessable from anywhere, and allows multiple users.
 
 ## Drupal CMS
 
